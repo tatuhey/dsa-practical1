@@ -1,0 +1,3 @@
+SORTING RUNTIMES
+
+From the values acquired via the SortsHarnessTest.java, we can see that insertion sort is the fastest in comparison to bubble sort and selection sort. Especially when the array is already ascending or nearly sorted. That is due to the fact that insertion sort swaps only when it is needed, rather than on every comparison. I cannot see any benefit of the nearly sorted to the bubble sort as mentioned in the lecture slide. On average, it apperas that selection sort is the best one out of the other two sorting algorithm. However, bubble sort works at the same rate as insertion sort for the ascending data type.
